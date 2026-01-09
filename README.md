@@ -17,7 +17,7 @@ Como resultado prático, o projeto implementa um pipeline ETL simples que extrai
 
 ## Estrutura do Projeto
 
--   `study_api.ipynb`: Um notebook Jupyter contendo o estudo detalhado de cada método HTTP.
+-   `src/study_api.ipynb`: Um notebook Jupyter contendo o estudo detalhado de cada método HTTP.
 -   `src/pipeline.ipynb`: O script Python final que executa o pipeline de dados de ponta a ponta.
 -   `requirements.txt`: Lista de dependências do projeto para fácil instalação.
 -   `.env`: Arquivo local para armazenar o token de autenticação (ignorado pelo Git).
